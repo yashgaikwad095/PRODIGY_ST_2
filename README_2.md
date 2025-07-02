@@ -10,4 +10,4 @@
 - All major functionalities like Login, Search, and Add to Cart worked without any errors.
 - No bugs, UI issues, or broken links were found during testing.
 
-📄 For detailed report, refer to the Compatibility_Report.md file.
+📄 For detailed report, refer to the PRODIGY_ST_2.md file.
