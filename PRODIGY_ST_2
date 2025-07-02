@@ -15,12 +15,12 @@ Tested Features:
 
 Test Results:
 
-| Browser/Device                | Issue Found | Description                             | Suggestion                       |
-|----------------------------- K |-------------|------------------------------------------|----------------------------------|
-| Chrome (Android)             | No          | All features (Login, Search, Cart) worked properly | No action needed        |
-| Microsoft Edge (Laptop/Desktop) | No       | Website is fully functional and responsive | No action needed           |
-| Firefox (Desktop)            | Not Tested  | -                                        | -                                |
-| Safari (iOS)                 | Not Tested  | -                                        | -                                |
+| Browser/Device                  | Issue Found | Description                                        | Suggestion                       |
+|-----------------------------    |-------------|-----------------------------------------          -|----------------------------------|
+| Chrome (Android)                | No          | All features (Login, Search, Cart) worked properly | No action needed                 |
+| Microsoft Edge (Laptop/Desktop) | No          | Website is fully functional and responsive         | No action needed                 |
+| Firefox (Desktop)               | Not Tested  | -                                                  | -                                |
+| Safari (iOS)                    | Not Tested  | -                                                  | -                                |
 
 ---
  Notes:
