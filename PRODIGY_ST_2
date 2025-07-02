@@ -1,0 +1,30 @@
+Compatibility Testing Report – Shoplane Demo Website
+
+*Website URL*: [https://shoplane-by-lassie.netlify.app](https://shoplane-by-lassie.netlify.app)
+ Overview:
+This report documents the compatibility testing performed on the Shoplane e-commerce demo website across different browsers and devices. The goal was to evaluate the responsiveness, layout behavior, and overall user experience.
+
+
+Tested Features:
+- Homepage and Banner Display
+- Product Listings and Images
+- Login & Registration Form
+- Add to Cart functionality
+- Mobile Responsiveness
+- Navigation through menu & categories
+
+Test Results:
+
+| Browser/Device                | Issue Found | Description                             | Suggestion                       |
+|----------------------------- K |-------------|------------------------------------------|----------------------------------|
+| Chrome (Android)             | No          | All features (Login, Search, Cart) worked properly | No action needed        |
+| Microsoft Edge (Laptop/Desktop) | No       | Website is fully functional and responsive | No action needed           |
+| Firefox (Desktop)            | Not Tested  | -                                        | -                                |
+| Safari (iOS)                 | Not Tested  | -                                        | -                                |
+
+---
+ Notes:
+- Login and Registration tested with multiple emails – working fine.
+- Product cards were responsive and images loaded properly.
+- No layout breakage or overlapping found on any tested device.
+- Website performance was smooth with no lag or delay.
